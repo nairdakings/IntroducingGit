@@ -1,3 +1,1 @@
-# IntroducingGit
-
-Welcome to my first proje
+Welcome to my first project
